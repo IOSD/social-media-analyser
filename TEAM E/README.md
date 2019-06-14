@@ -5,3 +5,4 @@
 * Varun Singh
 * Kartik Mehra
 * Shubhra Sachdev
+* Ekansh Gupta
