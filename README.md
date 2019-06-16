@@ -21,3 +21,7 @@ The recommended stack for the project is
 ## Contribution Guidelines
 * Read the [guidelines](./CONTRIBUTORS.md) before starting contributing or creating the project.
 * Follow the given [PR template](./PULL_REQUEST_TEMPLATE.md) to contribute to the project.
+
+## Gitter Community
+
+[Social Media Analyser](https://gitter.im/iosdofficial/Social-Media-Analyzer-ISOC19)
