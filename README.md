@@ -17,6 +17,17 @@ It is an application used to find the trends about companies and products using 
 ## Stack
 The recommended stack for the project is
 * Python/R
+* C/C++
+* Java
+* Dart
+* Ruby on Rails
+* Swift
+* Go
+* JavaScript
+* Kotlin
+* C#
+* PHP
+
 
 ## Contribution Guidelines
 * Read the [guidelines](./CONTRIBUTORS.md) before starting contributing or creating the project.
